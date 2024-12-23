@@ -6,7 +6,7 @@ To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
 
 
 ## DESIGN STEPS:
-
+ 
 ### Step 1:
 Clone the repository from GitHub.
 
